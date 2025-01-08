@@ -317,7 +317,7 @@ if(isset($_GET['logout'])){
     </div>
     <div class="footer_txt">
       <p>
-        All rights reservered by
+        All rights reservered by vidya
       </p>
     </div>
   </footer>
